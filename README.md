@@ -1,3 +1,9 @@
+# 🧠 Student Score Prediction
+
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF.svg)](https://www.kaggle.com/)
+[![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
+
 # **Overview**
 Welcome to the 2026 Kaggle Playground Series! We plan to continue in the spirit of previous playgrounds, providing interesting and approachable datasets for our community to practice their machine learning skills, and anticipate a competition each month.
 
@@ -43,3 +49,14 @@ Yao Yan, Walter Reade, Elizabeth Park. Predicting Student Test Scores. https://k
 # **Leaderboard Result**
 Ranked 886th among 4,319 participants  
 **Score:** 8.69542 (Best Score : 8.57273)
+
+## 📂 Repository Structure
+
+```text
+notebooks/
+ └─ predicting_test_score.ipynb   # Main analysis and modeling
+
+data/
+ └─ input_backup.zip                # Input datasets
+
+
